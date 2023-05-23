@@ -1,4 +1,4 @@
 # santander-coders
 
-# Cursando Digital: Git
+# Curso Digital: Git
 
