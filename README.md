@@ -1,4 +1,3 @@
 # santander-coders
 
-# CURSANDO GIT
- 
+# Cursando Git
